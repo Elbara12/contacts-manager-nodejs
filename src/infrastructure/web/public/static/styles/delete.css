@@ -1,0 +1,16 @@
+/* Custom styles */
+.confirmation-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+.confirmation-container h1 {
+  margin-bottom: 20px;
+}
+.confirmation-container button {
+  margin: 10px;
+}

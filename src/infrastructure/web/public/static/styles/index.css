@@ -1,0 +1,15 @@
+/* Custom styles */
+.table-container {
+  margin: 20px auto;
+  max-width: 1200px;
+  padding: 0 15px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.header h1 {
+  margin: 0;
+}
