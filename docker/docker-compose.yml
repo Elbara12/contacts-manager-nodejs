@@ -1,7 +1,7 @@
 services:
   database:
     container_name: mysql_db
-    image: mysql:8
+    image: mysql
     restart: always
     environment:
       - MYSQL_DATABASE=dev
