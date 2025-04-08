@@ -1,0 +1,24 @@
+{
+  "name": "wp-mvc",
+  "version": "1.0.0",
+  "description": "Simple MVC-style contacts manager API using Node.js, Express and MySQL (Docker-ready).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "author": "Matteo Baraggini",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "mysql",
+    "docker",
+    "mvc",
+    "api"
+  ],
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0"
+  }
+}
