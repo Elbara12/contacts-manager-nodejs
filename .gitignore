@@ -14,3 +14,12 @@ node_modules/
 # IDE/editor config
 .vscode/
 .idea/
+
+# Docker MySQL data (non versionare)
+docker/database/
+*.ibd
+*.sdi
+*.sock
+
+# Docker dotenv example
+.env
